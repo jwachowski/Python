@@ -7,4 +7,4 @@ b = int(input('podaj b'))
 print(a+b)"""
 imie1 = 'Tomek'
 imie2 = 'Jacek'
-print(imie1 + ' oraz ' + imie2 + ' wyrzucili Monike przez okno ')
+print(imie1 + ' oraz ' + imie2 + ' to chlopcy ')
